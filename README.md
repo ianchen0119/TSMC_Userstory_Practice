@@ -5,7 +5,7 @@
 - Student number: 310551012 
 - Name: 陳毅
 
-## User stories
+## User Stories
 - 帶小孩的家長
 希望車子能提供兒童安全座椅
 - 身為常客
